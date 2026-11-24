@@ -16,7 +16,8 @@ I build end-to-end ML systems and care a lot about honest evaluation: walk-forwa
 
 `Python` `PyTorch` `Stable-Baselines3` `Hugging Face / PEFT` `scikit-learn` `pandas`
 `FastAPI` `PostgreSQL / PostGIS / pgvector / TimescaleDB` `Redis` `Airflow` `MLflow` `Docker`
-`React` `Next.js` `TypeScript`
+`React` `Next.js` `TypeScript` `Natural Language Processing` `GenAI` `AWS` `CUDA` `tensorflow`
+`LLMs` `Reinforcement Learning` `GeoAI` `Image Processing` `CNN` `RAG`
 
 ### Also
 
